@@ -4,7 +4,6 @@
 
 .. toctree::
     :caption: 金字塔原理1
-    :numbered:
 
     01-表达的逻辑/index
     02-思考的逻辑/index
